@@ -16,7 +16,7 @@ def main(q):
     def weather(i):
         '''Function to get weather data'''
         # Enter the API key
-        api_key = 'ac6edceec5316c273c86304414839c7f'
+        api_key = '<your-openweathermap-api-key-here>'
 
         # base url
         base_url = 'http://api.openweathermap.org/data/2.5/weather?'
